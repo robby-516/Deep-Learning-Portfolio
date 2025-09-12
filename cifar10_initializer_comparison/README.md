@@ -22,8 +22,8 @@ The goal of this project is to evaluate how different **weight initializers** (X
 
 ## 📈 Output
 - **Test accuracy (example results):**
-  - Xavier Initializer: `65.43%`  
-  - Kaiming Initializer: `67.89%`  
+  - Xavier Initializer: `38.63%`  
+  - Kaiming Initializer: `41.7%`  
 
 - **Visualization:**  
 
