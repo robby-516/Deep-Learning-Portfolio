@@ -41,17 +41,8 @@ This demonstrates how **LSTM (Long Short-Term Memory)** networks can capture seq
 ---
 
 ## 📈 Output
-- **Test Accuracy**: ~`86%`  
+- **Test Accuracy**: ~`85%`  
 - Model successfully predicts **positive/negative** sentiment on new reviews.  
-
----
-
-## 📊 Visualization
-Training vs Validation Accuracy (conceptual):  
-
-![Accuracy Plot](accuracy_plot.png)  
-
-*(The plot shows accuracy improving across epochs for both training and validation.)*
 
 ---
 
